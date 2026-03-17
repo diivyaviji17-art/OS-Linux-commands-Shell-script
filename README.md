@@ -922,6 +922,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+<img width="407" height="219" alt="Screenshot 2026-03-17 121121" src="https://github.com/user-attachments/assets/e522e905-afd7-4651-bb7c-0309d2397c85" />
 
 
 cat forctype.sh 
@@ -949,6 +950,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="596" height="237" alt="Screenshot 2026-03-17 120935" src="https://github.com/user-attachments/assets/071a5c99-178c-44e3-ae46-065301b81633" />
 
 cat fornested1.sh 
 ```bash
@@ -967,6 +969,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="590" height="218" alt="Screenshot 2026-03-17 120814" src="https://github.com/user-attachments/assets/b59266e0-ac2c-41b1-a9d1-a625db893142" />
 
  
 cat forbreak.sh 
@@ -984,6 +987,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="596" height="221" alt="Screenshot 2026-03-17 120707" src="https://github.com/user-attachments/assets/e2d9a8b0-4eaa-4306-a283-9a3c110fe8a5" />
 
 $ chmod 755 forbreak.sh
  
@@ -1009,7 +1013,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="585" height="222" alt="Screenshot 2026-03-17 120604" src="https://github.com/user-attachments/assets/46ed6af6-3335-40b8-bb1c-4528416ffcab" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1023,6 +1028,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="465" height="139" alt="Screenshot 2026-03-17 120358" src="https://github.com/user-attachments/assets/a3f53d86-7f1f-411a-8fd3-ae407f2dcf5c" />
 
 
  cat exread1.sh
@@ -1036,6 +1042,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+<img width="519" height="111" alt="Screenshot 2026-03-17 120345" src="https://github.com/user-attachments/assets/4959a83f-07a9-4d1a-8d3b-a04982c91b22" />
 
 
 $ ./exread1.sh 
@@ -1056,10 +1063,13 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+
  ./funcex.sh 
+<img width="669" height="27" alt="Screenshot 2026-03-17 120110" src="https://github.com/user-attachments/assets/e9bdb51c-8310-4aab-ac60-531fa3306ae1" />
 
  
  ./funcex.sh 1 2
+<img width="490" height="20" alt="Screenshot 2026-03-17 120006" src="https://github.com/user-attachments/assets/8ec471f9-5639-4590-a6f2-818ab0002d1c" />
 
  
 cat argshift.sh
@@ -1074,7 +1084,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="484" height="65" alt="Screenshot 2026-03-17 115910" src="https://github.com/user-attachments/assets/32dd4a52-4aaf-4e5e-8a97-12805292d92f" />
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1091,7 +1102,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="581" height="58" alt="Screenshot 2026-03-17 115830" src="https://github.com/user-attachments/assets/12976dd9-1e5f-40bf-8250-ce0124070c6c" />
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
